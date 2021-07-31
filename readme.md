@@ -1,5 +1,5 @@
 # ADO .NET
-- ADO .NET using Configuration Json to get connect string from appsetting.json (using in ASP .NET Core MVC/ ASP .NET MVC)
+- ADO .NET using Configuration Json to get connect string from appsetting.json (using on ASP .NET Core MVC/ ASP .NET MVC)
 - This is Class Library C#.
 # How to Use?:
 - Download this code
