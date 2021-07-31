@@ -1,0 +1,18 @@
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\ASP .NET\ASP .NET Core MVC\DAL Database\bin\Debug\netstandard2.0\DAL Database.deps.json
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\ASP .NET\ASP .NET Core MVC\DAL Database\bin\Debug\netstandard2.0\DAL Database.dll
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\ASP .NET\ASP .NET Core MVC\DAL Database\obj\Debug\netstandard2.0\DAL Database.csprojAssemblyReference.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\ASP .NET\ASP .NET Core MVC\DAL Database\obj\Debug\netstandard2.0\DAL Database.AssemblyInfoInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\ASP .NET\ASP .NET Core MVC\DAL Database\obj\Debug\netstandard2.0\DAL Database.AssemblyInfo.cs
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\ASP .NET\ASP .NET Core MVC\DAL Database\bin\Debug\netstandard2.0\DAL Database.pdb
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\ASP .NET\ASP .NET Core MVC\DAL Database\obj\Debug\netstandard2.0\DAL Database.csproj.CoreCompileInputs.cache
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\ASP .NET\ASP .NET Core MVC\DAL Database\obj\Debug\netstandard2.0\DAL Database.dll
+E:\Giao Trinh\Year 3\Semes 2\PRN292\Project\ASP .NET\ASP .NET Core MVC\DAL Database\obj\Debug\netstandard2.0\DAL Database.pdb
+C:\Users\Ryuu\Desktop\C# Project\CSharpProject\3. DAL Database\DAL Database\bin\Debug\netstandard2.0\DAL Database.deps.json
+C:\Users\Ryuu\Desktop\C# Project\CSharpProject\3. DAL Database\DAL Database\bin\Debug\netstandard2.0\DAL Database.dll
+C:\Users\Ryuu\Desktop\C# Project\CSharpProject\3. DAL Database\DAL Database\bin\Debug\netstandard2.0\DAL Database.pdb
+C:\Users\Ryuu\Desktop\C# Project\CSharpProject\3. DAL Database\DAL Database\obj\Debug\netstandard2.0\DAL Database.csprojAssemblyReference.cache
+C:\Users\Ryuu\Desktop\C# Project\CSharpProject\3. DAL Database\DAL Database\obj\Debug\netstandard2.0\DAL Database.AssemblyInfoInputs.cache
+C:\Users\Ryuu\Desktop\C# Project\CSharpProject\3. DAL Database\DAL Database\obj\Debug\netstandard2.0\DAL Database.AssemblyInfo.cs
+C:\Users\Ryuu\Desktop\C# Project\CSharpProject\3. DAL Database\DAL Database\obj\Debug\netstandard2.0\DAL Database.csproj.CoreCompileInputs.cache
+C:\Users\Ryuu\Desktop\C# Project\CSharpProject\3. DAL Database\DAL Database\obj\Debug\netstandard2.0\DAL Database.dll
+C:\Users\Ryuu\Desktop\C# Project\CSharpProject\3. DAL Database\DAL Database\obj\Debug\netstandard2.0\DAL Database.pdb
